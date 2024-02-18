@@ -2,7 +2,7 @@
 
 🛠 **Current Role**: I'm currently making impactful contributions at Bananapie GmbH - Gibion AI, focusing on back-end development and AI technologies. Before joining Gibion AI, I honed my skills at **Samsung SDS** in their Data Science and AI department.
 
-🎓 **Education**: Proud holder of a Bachelor's degree in Information Technology (BSIT), where I secured the second position and was awarded a **Silver Medal** for my achievements.
+🎓 **Education**: Holder of a Bachelor's degree in Information Technology (BSIT), where I secured the second position and was awarded a **Silver Medal** for my achievements.
 
 🚀 **Passion for Technology**: I have a relentless curiosity for learning and exploring new technologies. My drive is to solve challenging problems with my expertise and share those solutions with the community.
 
