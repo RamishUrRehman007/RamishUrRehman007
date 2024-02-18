@@ -1,19 +1,25 @@
--👷🏻‍♂️ Currently leveraging over 6 years of robust experience to transform visionary ideas into impactful software solutions, with a significant stint at Samsung SDS.
--🌟 My journey is fueled by a desire to create tangible software solutions that resonate with target audiences, propelled by technological prowess in AI & Language Models, Backend Technologies, Database Management, Cloud Services, and Frontend Development.
--🎨 Passionate about crafting intuitive and engaging interfaces with Vue.js, enhancing user experience across digital platforms.
--⚒️ Harnessing Python, FastAPI, Flask, Django, PostgreSQL, NoSQL, AWS, and more to build robust, scalable backends and manage data securely.
--🏅 A fervent advocate for open-source contribution, emphasizing software quality, user experience, and performance optimization.
--🐍 Python serves as my primary tool in most projects, driving innovation and efficiency.
-### Some of my expertise:
-- 📈 **AI & Language Models Integration**: Infusing products with the intelligence of LLM, OpenAI, and Langchain to navigate the future of technology.
-- 🧬 **Backend Frameworks Utilization**: Leveraging FastAPI, Flask, and Django to establish a robust and scalable backend foundation.
-- 💡 **Database Management Solutions**: Employing PostgreSQL and NoSQL for secure, accessible data management strategies.
-- 📝 **Cloud Deployment Mastery**: Utilizing AWS services like EC2, Lambda, Elastic Beanstalk, and IAM to ensure seamless deployment and optimal performance.
-- 🕒 **Frontend Development Innovations**: Creating captivating user experiences with Vue.js to engage and retain users.
-- 🏠 **Data Processing & Mining Expertise**: Extracting actionable insights through sophisticated data analysis, informing strategic decision-making.
-### Some of My Favorite Creations:
-- 📈 **python-adaptive/adaptive**: A library for parallel active learning of mathematical functions.
-- 🧬 **unidep**: A tool to unify pip and conda requirements, enabling a single command setup for a full development environment.
-- 💡 **adaptive-lighting**: A custom component for Home Assistant, ensuring your lighting is in sync with the sun.
+# Welcome to My GitHub Profile! 👨‍💻
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you're interested in collaborating on future projects.
+🛠 **Current Role**: I'm currently making impactful contributions at Gibion AI, focusing on back-end development and AI technologies. Before joining Gibion AI, I honed my skills at Samsung SDS in their Data Science and AI department.
+
+🎓 **Education**: Proud holder of a Bachelor's degree in Information Technology (BSIT), where I secured the second position and was awarded a silver medal for my achievements.
+
+🚀 **Passion for Technology**: I have a relentless curiosity for learning and exploring new technologies. My drive is to solve challenging problems with my expertise and share those solutions with the community.
+
+🐍 **Favorite Programming Language**: Python is my language of choice for most of my projects, thanks to its versatility and the powerful libraries available for data science, AI, and back-end development.
+
+## Featured Projects
+
+Here are some of the projects I've worked on that showcase my skills and my approach to software development:
+
+- 📈 **[Project Name](#)**: A brief description of the project, highlighting how it addresses specific problems or needs.
+- 🧬 **[Another Project](#)**: An overview of another creation, focusing on its unique features and the technologies used.
+- 💡 **[Innovative Solution](#)**: Details about a project that exemplifies my ability to innovate and implement cutting-edge solutions.
+
+## Let's Connect!
+
+I'm always on the lookout for new challenges and opportunities to collaborate on exciting projects. If you're interested in discussing potential projects, sharing ideas, or simply connecting, feel free to reach out to me.
+
+- 📧 **Email**: [Your Email Address](mailto:youremail@example.com)
+- 🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- 🐦 **Twitter**: [Your Twitter Handle](https://twitter
