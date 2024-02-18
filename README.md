@@ -1,9 +1,9 @@
-👷🏻‍♂️ Currently leveraging over 6 years of robust experience to transform visionary ideas into impactful software solutions, with a significant stint at Samsung SDS.
-🌟 My journey is fueled by a desire to create tangible software solutions that resonate with target audiences, propelled by technological prowess in AI & Language Models, Backend Technologies, Database Management, Cloud Services, and Frontend Development.
-🎨 Passionate about crafting intuitive and engaging interfaces with Vue.js, enhancing user experience across digital platforms.
-⚒️ Harnessing Python, FastAPI, Flask, Django, PostgreSQL, NoSQL, AWS, and more to build robust, scalable backends and manage data securely.
-🏅 A fervent advocate for open-source contribution, emphasizing software quality, user experience, and performance optimization.
-🐍 Python serves as my primary tool in most projects, driving innovation and efficiency.
+-👷🏻‍♂️ Currently leveraging over 6 years of robust experience to transform visionary ideas into impactful software solutions, with a significant stint at Samsung SDS.
+-🌟 My journey is fueled by a desire to create tangible software solutions that resonate with target audiences, propelled by technological prowess in AI & Language Models, Backend Technologies, Database Management, Cloud Services, and Frontend Development.
+-🎨 Passionate about crafting intuitive and engaging interfaces with Vue.js, enhancing user experience across digital platforms.
+-⚒️ Harnessing Python, FastAPI, Flask, Django, PostgreSQL, NoSQL, AWS, and more to build robust, scalable backends and manage data securely.
+-🏅 A fervent advocate for open-source contribution, emphasizing software quality, user experience, and performance optimization.
+-🐍 Python serves as my primary tool in most projects, driving innovation and efficiency.
 ### Some of my expertise:
 - 📈 **AI & Language Models Integration**: Infusing products with the intelligence of LLM, OpenAI, and Langchain to navigate the future of technology.
 - 🧬 **Backend Frameworks Utilization**: Leveraging FastAPI, Flask, and Django to establish a robust and scalable backend foundation.
