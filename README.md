@@ -6,7 +6,7 @@
 
 🚀 **Passion for Technology**: I have a relentless curiosity for learning and exploring new technologies. My drive is to solve challenging problems with my expertise and share those solutions with the community.
 
-🐍 **Favorite Programming Language**: Python is my language of choice for most of my projects, thanks to its versatility and the powerful libraries available for data science, AI, and back-end development.
+🐍 **Favorite Programming Language**: Python is my language of choice for most of my projects, thanks to its versatility and the powerful libraries available for data science, AI, Blockchain, and back-end development.
 
 ## Featured Projects
 
