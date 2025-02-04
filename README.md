@@ -12,6 +12,7 @@
 
 Here are some of the projects I've worked on that showcase my skills and my approach to software development:
 
+- 📄🤖 **[DocumentBasedGPT](https://github.com/RamishUrRehman007/DocumentBasedGPT)**: An AI-powered system that answers questions based on internal documents, delivering concise, well-sourced responses with direct links to relevant sections. Built with OpenAI, Pinecone, and LangChain, it ensures accuracy and relevance while preventing misleading or off-topic answers.
 - 💬 **[FastChat](https://github.com/RamishUrRehman007/FastChat)**: A real-time chat application powered by FastAPI, Redis, and Docker, enabling seamless one-to-one or group conversations. Fast, efficient, and scalable communication for your projects.
 - 🧬 **[GPTVideoInsights](https://github.com/RamishUrRehman007/GPTVideoInsights)**: The application allows users to upload videos and interactively seek insights by asking questions about the video content. The integration of GPT ensures accurate and context-aware responses, making video analysis both informative and user-friendly. 
 - 💡 **[REST_APIs_Kubernetes](https://github.com/RamishUrRehman007/REST_APIs-Kubernetes)**: The project develops RESTful APIs for CRUD operations with PostgreSQL, uses Swagger for API interaction, and containers with Docker. It's deployed on Kubernetes with high availability, hosting both the application and database. Prometheus is integrated for monitoring, providing visualization through metrics graphs.
