@@ -1,28 +1,69 @@
-# Welcome to My GitHub Profile! 👨‍💻
+<h1 align="center">Welcome to My GitHub Profile! 👨‍💻</h1>
+<p align="center">
+  <strong>🚀 AI | Backend | AWS Cloud</strong><br>
+  Passionate about AI, Cloud Computing, and Scalable Backend Systems.
+</p>
 
-🛠 **Current Role**: I'm currently making impactful contributions at Bananapie GmbH - Gibion AI, focusing on back-end development and AI technologies. Before joining Gibion AI, I honed my skills at **Samsung SDS** in their Data Science and AI department.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramish-ur-rehman-432971175/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="mailto:ramish534@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail">
+  </a>
+  <a href="https://github.com/RamishUrRehman007">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=flat&logo=github">
+  </a>
+</p>
 
-🎓 **Education**: Holder of a Bachelor's degree in Information Technology (BSIT), where I secured the second position and was awarded a **Silver Medal** for my achievements.
+---
 
-🚀 **Passion for Technology**: I have a relentless curiosity for learning and exploring new technologies. My drive is to solve challenging problems with my expertise and share those solutions with the community.
+## 🚀 About Me
 
-🐍 **Favorite Programming Language**: Python is my language of choice for most of my projects, thanks to its versatility and the powerful libraries available for data science, AI, Blockchain, and back-end development.
+🔹 **Current Role:** Senior Software Engineer (Python, AI) at **Bananapie GmbH - Gibion AI**, where I design and build **AI-powered automation, backend systems, and cloud infrastructure**.  
+🔹 **Previous Experience:** Python-AI Engineer at **Samsung SDS**, optimizing AI-driven data pipelines and model deployment.  
+🔹 **Education:** **B.S. in Information Technology (Silver Medalist)** - Ranked **2nd place** in my class.  
 
-## Featured Projects
+💡 **Passionate About:**  
+- AI & ML (LLMs, NLP, Computer Vision)  
+- Backend Engineering (FastAPI, Django, Flask)  
+- Cloud & DevOps (AWS, Kubernetes, Terraform)  
+- Scalable System Design  
 
-Here are some of the projects I've worked on that showcase my skills and my approach to software development:
+---
 
-- 📄🤖 **[DocumentBasedGPT](https://github.com/RamishUrRehman007/DocumentBasedGPT)**: An AI-powered system that answers questions based on internal documents, delivering concise, well-sourced responses with direct links to relevant sections. Built with OpenAI, Pinecone, and LangChain, it ensures accuracy and relevance while preventing misleading or off-topic answers.
-- 💬 **[FastChat](https://github.com/RamishUrRehman007/FastChat)**: A real-time chat application powered by FastAPI, Redis, and Docker, enabling seamless one-to-one or group conversations. Fast, efficient, and scalable communication for your projects.
-- 🧬 **[GPTVideoInsights](https://github.com/RamishUrRehman007/GPTVideoInsights)**: The application allows users to upload videos and interactively seek insights by asking questions about the video content. The integration of GPT ensures accurate and context-aware responses, making video analysis both informative and user-friendly. 
-- 💡 **[REST_APIs_Kubernetes](https://github.com/RamishUrRehman007/REST_APIs-Kubernetes)**: The project develops RESTful APIs for CRUD operations with PostgreSQL, uses Swagger for API interaction, and containers with Docker. It's deployed on Kubernetes with high availability, hosting both the application and database. Prometheus is integrated for monitoring, providing visualization through metrics graphs.
-- 🤖 **[WindowsManufacturingBot](https://github.com/RamishUrRehman007/WindowsManufacturingBot)**: Windows Manufacturing Chatbot is a web-based application designed to assist users with questions related to window manufacturing. Leveraging the power of Large Language Models (LLMs) via Langchain and OpenAI, the chatbot provides detailed and accurate information about different types of windows, manufacturing processes, installation, maintenance, and more. The application ensures a smooth conversational context to handle follow-up questions effectively.
+## 🔥 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,tensorflow,pytorch,postgresql,mongodb,redis,docker,kubernetes,aws,git,github,linux" />
+</p>
 
-## Let's Connect!
+---
 
-I'm always on the lookout for new challenges and opportunities to collaborate on exciting projects. If you're interested in discussing potential projects, sharing ideas, or simply connecting, feel free to reach out to me.
+## 📌 Featured Projects  
+### 🤖 AI & Machine Learning  
+- **[DocumentBasedGPT](https://github.com/RamishUrRehman007/DocumentBasedGPT)** – AI-powered document-based chatbot using **LangChain, Pinecone, and OpenAI**.  
+- **[GPTVideoInsights](https://github.com/RamishUrRehman007/GPTVideoInsights)** – AI system that analyzes videos and provides **context-aware insights** via GPT models.  
 
-- 📧 **Email**: [ramish534@outlook.com](mailto:ramish534@outlook.com)
-- 🔗 **LinkedIn**: [Ramish Ur Rehman](https://www.linkedin.com/in/ramish-ur-rehman-432971175/)
+### 🔧 Backend & APIs  
+- **[FastChat](https://github.com/RamishUrRehman007/FastChat)** – Real-time **FastAPI chat app** using **Redis & Docker**.  
+- **[REST_APIs_Kubernetes](https://github.com/RamishUrRehman007/REST_APIs-Kubernetes)** – Kubernetes-powered **REST API** with **PostgreSQL, Docker, and Prometheus monitoring**.  
 
-Your project's success is my top priority. Let's create something impactful together.
+### 🏭 AI-Powered Automation  
+- **[WindowsManufacturingBot](https://github.com/RamishUrRehman007/WindowsManufacturingBot)** – AI chatbot for **window manufacturing queries**, leveraging **LangChain & OpenAI**.  
+
+---
+
+## 📊 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamishUrRehman007&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔗 Let's Connect!  
+📧 **Email**: [ramish534@outlook.com](mailto:ramish534@outlook.com)  
+🔗 **LinkedIn**: [Ramish Ur Rehman](https://www.linkedin.com/in/ramish-ur-rehman-432971175/)  
+🖥️ **GitHub**: [github.com/RamishUrRehman007](https://github.com/RamishUrRehman007)  
+
+🚀 **Let's build something impactful together!**
+
