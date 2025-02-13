@@ -24,9 +24,9 @@
 🔹 **Previous Experience:** Python-AI Engineer at **Samsung SDS**, optimizing AI-driven data pipelines and model deployment.  
 🔹 **Education:** **B.S. in Information Technology (Silver Medalist)** - Ranked **2nd place** in my class.  
 
-💡 **Passionate About:**  
+💡 **Passionate About:** 
+- Backend Engineering (FastAPI, Django, Flask, JS)
 - AI & ML (LLMs, NLP, Computer Vision)  
-- Backend Engineering (FastAPI, Django, Flask)  
 - Cloud & DevOps (AWS, Kubernetes, Terraform)  
 - Scalable System Design  
 
